@@ -1,24 +1,31 @@
 # Amazon-Inspired-UI
 A front-end clone of Amazon's homepage, built using HTML & CSS.
 This project is part of my practice to improve web design, layout, and responsive UI skills.
-# Features
-Responsive Navbar
-Search Bar
 
-Language Selector
+## Live Demo 
+link: https://kritika6520.github.io/Amazon-Inspired-UI/
 
+## Features
+-Responsive Navbar
 
-Hero Banner with Navigation Buttons
+-Search Bar
 
-Product Grid Section
+-Language Selector
 
-Clean Footer
+-Hero Banner with Navigation Buttons
 
-Fully Responsive Design
-# Tech Stack
-HTML5
+-Product Grid Section
 
-CSS3
-# License
+-Clean Footer
+
+-Fully Responsive Design
+
+## Tech Stack
+-HTML5
+
+-CSS3
+
+## License
 This project is for educational purposes only and not affiliated with Amazon.
+
 
